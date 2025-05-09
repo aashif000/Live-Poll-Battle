@@ -131,11 +131,4 @@ This application works best in modern browsers with support for:
 - shadcn/ui for UI components
 - Socket.IO client for WebSocket communication
 - React Context API for state management
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+ 
