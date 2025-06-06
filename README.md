@@ -1,7 +1,7 @@
 
 # Live Poll Battleground
 
-A real-time poll application where users can create or join poll rooms and participate in voting. The results update instantly across users.
+A real-time poll application where users can create or join poll rooms and participate in voting. The results update instantly across connected users.
 
 ## Features
 
